@@ -11,12 +11,12 @@ NOTE: There are overlaps among different categories.
 
 
 ## Table of Content
-- **[Timeline of AI Sign language](#2023)**
+- **[AI Sign language in Timeline](#2023)**
   - **[2023](#2023)**
   - **[2022](#2022)**
   - **[2021](#2021)**
 
-- **[Types of AI Sign language](#slt)**
+- **[AI Sign language in Types](#slt)**
   - **[Sign Language Translation (SLT)](#slt)**
 
   - **[Sign Language Recognition (SLR)](#slr)**
@@ -31,10 +31,12 @@ NOTE: There are overlaps among different categories.
     - [HMM](#hmm)
   - **[Text2Sign](#text2sign)**
 
-- **[Institutions about AI Sign language](#ustc-slr)**
-  - **[USTC （中科大）SL](#ustc-slr)**
+- **[AI Sign Language in Institutions](#ustc-slr)**
   - **[Koller&Camgoz SL](#rwth)**
-  - **[XMU SL](#xmusl)**
+  - **[USTC （中科大）SL](#ustc-slr)**
+  - **[XMU (厦门大学) SL](#xmusl)**
+  - **[ZJU (浙江大学) SL](#zjusl)**
+  - **[THU (清华大学) SL](#thusl)**
   - **[Datasets](#datasets)**
 
 - **[Related Fields](#related-fields)**
@@ -45,7 +47,7 @@ NOTE: There are overlaps among different categories.
 ## Timeline of AI Sign Language
 
 ### 2023
-- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==SLR; Latest==
+- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
 
 
 ### 2022
@@ -164,7 +166,7 @@ TODO
 ## SLR
 
 ### CTC-Iteration for Alignment
-*关键核心 for SLT。似乎都是CNN+RNN*
+* mainly CNN+RNN*
 
 1. **Stochastic Fine-grained Labeling of Multi-state Sign Glosses for Continuous Sign Language Recognition** `ECCV2020` [*paper*](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123610171.pdf) [*code*](https://github.com/zheniu/stochastic-cslr) 
 4. **Fully Convolutional Networks for Continuous Sign Language Recognition** `ECCV2020` [*paper*](https://arxiv.org/pdf/2007.12402v1.pdf) *code* 
@@ -279,7 +281,6 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 
 
 ## USTC SLR
-*中科大SLR专题（与前面有重复部分） [主页](http://home.ustc.edu.cn/~pjh/openresources/slr/index.html)*
 
 ##### Conference papers:
 1. **Boosting Continuous Sign Language Recognition via Cross Modality Augmentation** `ACMMM2020` 
@@ -333,9 +334,15 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 
 
 ## XMU SL 
-xiamen University
-- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==SLR==
+- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
 
+
+## ZJU SL 
+- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
+
+
+## THU SL 
+- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
 
 ## Datasets
 

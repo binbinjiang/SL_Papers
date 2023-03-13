@@ -1,4 +1,4 @@
-# LATEST SLR/SLT Papers
+# LATEST Awesome SLR/SLT Papers
 
 ## Papers about AI Sign language  [**UPDATING**]
 
@@ -14,7 +14,6 @@ Collaborators: [Haodong Zhang - Github homepage](https://github.com/0aqz0)
 
 Other useful/recommended collection of AI sign language papers:
 [[github]](https://github.com/0aqz0/SLRPapers)
-
 
 
 ## Table of Content
@@ -41,6 +40,8 @@ Other useful/recommended collection of AI sign language papers:
     - [Untitle](#untitle)
     - [HMM](#hmm)
   - **[Text2Sign](#text2sign)**
+  
+  - **[SignText-SignGloss Translation](#text-gloss)**
 
 - **[AI Sign Language in Institutions](#ustc-slr)**
   - **[Koller&Camgoz (英德) SL](#rwth)**

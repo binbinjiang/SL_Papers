@@ -9,6 +9,12 @@ If these are useful to you, please **Star** it to support us, and we will update
 NOTE: There are overlaps among different categories.
 
 
+## See Also
+Other useful/recommended collection of papers:
+[[1. github]](https://github.com/0aqz0/SLRPapers)
+[[2. github]](https://github.com/biaofuxmu/Awesome-Sign-Language-Translation)
+
+
 
 ## Table of Content
 - **[AI Sign language in Timeline](#2023)**
@@ -37,11 +43,15 @@ NOTE: There are overlaps among different categories.
 
 - **[AI Sign Language in Institutions](#ustc-slr)**
   - **[Koller&Camgoz (英德) SL](#rwth)**
-  - **[USTC （中科大）SL](#ustc-slr)**
+  - **[USTC（中科大）SL](#ustc-slr)**
   - **[XMU (厦门大学) SL](#xmusl)**
   - **[ZJU (浙江大学) SL](#zjusl)**
   - **[THU (清华大学) SL](#thusl)**
- 
+
+
+- **[SL Survey and Collection](#survey)**
+
+
 - **[Datasets](#datasets)**
 
 - **[Related Fields](#related-fields)**

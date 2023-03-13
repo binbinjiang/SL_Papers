@@ -15,6 +15,10 @@ NOTE: There are overlaps among different categories.
   - **[2023](#2023)**
   - **[2022](#2022)**
   - **[2021](#2021)**
+  - **[2020](#2020)**
+  - **[2019](#2019)**
+  - **[2018](#2018)**
+  - **[earlier](#earlier)**
 
 - **[AI Sign language in Types](#slt)**
   - **[Sign Language Translation (SLT)](#slt)**
@@ -32,12 +36,13 @@ NOTE: There are overlaps among different categories.
   - **[Text2Sign](#text2sign)**
 
 - **[AI Sign Language in Institutions](#ustc-slr)**
-  - **[Koller&Camgoz SL](#rwth)**
+  - **[Koller&Camgoz (英德) SL](#rwth)**
   - **[USTC （中科大）SL](#ustc-slr)**
   - **[XMU (厦门大学) SL](#xmusl)**
   - **[ZJU (浙江大学) SL](#zjusl)**
   - **[THU (清华大学) SL](#thusl)**
-  - **[Datasets](#datasets)**
+ 
+- **[Datasets](#datasets)**
 
 - **[Related Fields](#related-fields)**
   - [Action Recognition](#action-recognition)

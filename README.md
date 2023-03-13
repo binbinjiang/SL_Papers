@@ -32,9 +32,9 @@ NOTE: There are overlaps among different categories.
   - **[Text2Sign](#text2sign)**
 
 - **[Institutions about AI Sign language](#ustc-slr)**
-  - **[USTC 中科大SLR 专题](#ustc-slr)**
-  - **[Koller&Camgoz 专题](#rwth)**
-  - **[XMU 专题](#rwth)**
+  - **[USTC （中科大）SL](#ustc-slr)**
+  - **[Koller&Camgoz SL](#rwth)**
+  - **[XMU SL](#xmusl)**
   - **[Datasets](#datasets)**
 
 - **[Related Fields](#related-fields)**
@@ -45,7 +45,8 @@ NOTE: There are overlaps among different categories.
 ## Timeline of AI Sign Language
 
 ### 2023
-TODO
+- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==SLR; Latest==
+
 
 ### 2022
 TODO
@@ -323,7 +324,7 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 2. **Neural Sign Language Translation** `CVPR2018` [*paper*](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf) [*code*](https://github.com/neccam/nslt)
 
 
-### SLR  ---待完善
+### SLR  ---TODO
 1. **Sign Language Recognition, Generation, and Translation: An Interdisciplinary Perspective** `ASSETS2019` [*paper*](https://dl.acm.org/doi/10.1145/3308561.3353774) *code*
 
 1. **Deep Sign: Enabling Robust Statistical Continuous Sign Language Recognition via Hybrid CNN-HMMs** `IJCV2018` [*paper*](https://dl.acm.org/doi/10.1007/s11263-018-1121-3) *code*
@@ -331,6 +332,9 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 1. **Deep Learning of Mouth Shapes for Sign Language** `ICCVW2015` [*paper*](https://dl.acm.org/doi/10.1109/ICCVW.2015.69) *code*
 
 
+## XMU SL 
+xiamen University
+- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==SLR==
 
 
 ## Datasets

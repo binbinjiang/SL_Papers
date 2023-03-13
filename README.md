@@ -27,7 +27,7 @@ Other useful/recommended collection of AI sign language papers:
   - **[2020](#2020)**
   - **[2019](#2019)**
   - **[2018](#2018)**
-  - **[earlier](#earlier)**
+  - **[Earlier](#Earlier)**
 
 - **[AI Sign language in Types](#slt)**
   - **[Sign Language Translation (SLT)](#slt)**

@@ -54,11 +54,11 @@ Other useful/recommended collection of AI sign language papers:
   - **[THU (清华大学) SL](#thu_sl)**
 
 
-- **[SL Survey and Collection](#survey)**
+- **[SL Survey Papers](#survey)**
 
 
 
-- **[SL Linguistics](#sllinguistics)**
+- **[SL Linguistics](#sl_ling)**
 
 
 

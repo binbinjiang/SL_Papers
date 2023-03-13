@@ -1,12 +1,12 @@
 # LATEST Awesome AI Sign Language Papers
 
-Keywords: Sign Language Translation (SLT); Sign Language Recognition (SLR)
+Keywords: Sign Language; Sign Language Translation (SLT); Sign Language Recognition (SLR); Sign Language Linguistics
 
 ## Papers about AI Sign language  [**UPDATING**]
 
-In this repository, we have collected AI sign language (SL) papers for those interested in the field. To facilitate retrieval and viewing, we classify according to different criteria (by time, research content, research institution, etc.). 
+In this repository, we have collected AI sign language (SL) papers for those interested in the field. To facilitate retrieval and viewing, we classify according to different criteria (by time, research types, institutions, etc.). 
 
-If these are useful to you, please **Star** it to support us, and we will update as much as possible.
+If these are useful to you, please support us with **Star** and we will update as soon as possible.
 
 NOTE: There are overlaps among different categories.
 
@@ -49,12 +49,18 @@ Other useful/recommended collection of AI sign language papers:
 - **[AI Sign Language in Institutions](#ustc-slr)**
   - **[Koller&Camgoz (英德) SL](#rwth)**
   - **[USTC（中科大）SL](#ustc-slr)**
-  - **[XMU (厦门大学) SL](#xmusl)**
-  - **[ZJU (浙江大学) SL](#zjusl)**
-  - **[THU (清华大学) SL](#thusl)**
+  - **[XMU (厦门大学) SL](#xmu_sl)**
+  - **[ZJU (浙江大学) SL](#zju_sl)**
+  - **[THU (清华大学) SL](#thu_sl)**
 
 
 - **[SL Survey and Collection](#survey)**
+
+
+
+- **[SL Linguistics](#sllinguistics)**
+
+
 
 
 - **[Datasets](#datasets)**
@@ -207,7 +213,6 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 *GCN for SLR*
 
 1. **Spatial-Temporal Graph Convolutional Networks for Sign Language Recognition** `ICANN2019` [*paper*](https://arxiv.org/pdf/1901.11164.pdf) [*code*](https://github.com/amorim-cleison/st-gcn-sl)
-2. **开源项目(浙大某研究生),包括了GCN for SLR代码** *paper* [*code*](https://github.com/0aqz0/SLR)
 
 
 #### **GCN-related Work*
@@ -216,15 +221,6 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 
 *GCN & Zero-shot:*
 2. Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs [*paper*](https://arxiv.org/pdf/1803.08035.pdf) [*code*](https://github.com/JudyYe/zero-shot-gcn) ==GCN&zero-shot==
-
-
-
-### Zero-shot
-1.**Zero-Shot Sign Language Recognition: Can Textual Data Uncover Sign Languages?** `BMVC2019` [*paper*](https://arxiv.org/pdf/1907.10292.pdf) [*code 非官方 浙大某学生*](https://github.com/lwj2018/islr-few-shot)
-
-#### **低资源相关论文*
-1. **Fingerspelling recognition in the wild with iterative visual attention** `CVPR2018` [*paper*](https://arxiv.org/pdf/1908.10546.pdf) *code*
-2. [综述](https://github.com/sbharadwajj/awesome-zero-shot-learning)
 
 
 ### Others
@@ -267,7 +263,7 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 
 ### G2T
 
-1. **Translation of sign language glosses to text using sequence-to-sequence attention models.** `SITIS2019` [*paper*](https://www.researchgate.net/publication/340689060_Translation_of_Sign_Language_Glosses_to_Text_Using_Sequence-to-Sequence_Attention_Models) *code* ==ASLG-PC12数据集==
+1. **Translation of sign language glosses to text using sequence-to-sequence attention models.** `SITIS2019` [*paper*](https://www.researchgate.net/publication/340689060_Translation_of_Sign_Language_Glosses_to_Text_Using_Sequence-to-Sequence_Attention_Models) *code*
 
 
 ### Dataset Paper
@@ -324,24 +320,37 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 1. **A Threshold-based HMM-DTW Approach for Continuous Sign Language Recognition** `ICIMCS2014`
 
 ##### Journal papers:
-1. **Semantic Boundary Detection with Reinforcement Learning for Continuous Sign Language Recognition** `TCSVT2020`  ==#TODO 没找到该文章 应该还没公布==
-2. **Attention based 3D-CNNs for Large-Vocabulary Sign Language Recognition** `TCSVT2018` *paper* *code* ==#TODO==
+1. **Semantic Boundary Detection with Reinforcement Learning for Continuous Sign Language Recognition** `TCSVT2020`
+2. **Attention based 3D-CNNs for Large-Vocabulary Sign Language Recognition** `TCSVT2018` *paper* *code*
 
+
+
+
+## XMU SL (#xmu_sl)
+- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
+
+
+## ZJU SL (#zju_sl)
+- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
+
+
+## THU SL (#thu_sl)
+- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
 
 
 ## RWTH
-*英国Oscar Koller、Camgoz等人工作的专题（与前面有重复部分） 
+*英国Oscar Koller、Camgoz等人工作的专题
 1. **Multi-channel Transformers for Multi-articulatory Sign Language Translation** `arxiv2020` [*paper*](https://arxiv.org/pdf/2009.00299.pdf) *code*
-1. **Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation** `CVPR2020` [*paper*](https://arxiv.org/pdf/2003.13830.pdf) [*code*](https://github.com/neccam/slt) ==德国==
+1. **Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation** `CVPR2020` [*paper*](https://arxiv.org/pdf/2003.13830.pdf) [*code*](https://github.com/neccam/slt)
 2. **Sign Language Translation with Transformers** `ArXiv2020` [*paper*](https://arxiv.org/pdf/2004.00588.pdf) [*code*](https://github.com/kayoyin/transformer-slt)
 5. **Neural Sign Language Translation** `CVPR2018` [*paper*](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf) [*code*](https://github.com/neccam/nslt)
-5. **Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos** `TRAMI2019` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8691602) [*code 非官方caffe*](https://github.com/huerlima/Re-Sign-Re-Aligned-End-to-End-Sequence-Modelling-with-Deep-Recurrent-CNN-HMMs) ==Koller&开源&对齐==
-8. **Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs** `CVPR2017` [*paper*](https://www-i6.informatik.rwth-aachen.de/publications/download/1031/KollerOscarZargaranSepehrNeyHermann--Re-SignRe-AlignedEnd-to-EndSequenceModellingwithDeepRecurrentCNN-HMMs--2017.pdf) [*code 非官方caffe*](https://github.com/huerlima/Re-Sign-Re-Aligned-End-to-End-Sequence-Modelling-with-Deep-Recurrent-CNN-HMMs) ==Koller&开源&对齐==
+5. **Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos** `TRAMI2019` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8691602) [*code 非官方caffe*](https://github.com/huerlima/Re-Sign-Re-Aligned-End-to-End-Sequence-Modelling-with-Deep-Recurrent-CNN-HMMs)
+8. **Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs** `CVPR2017` [*paper*](https://www-i6.informatik.rwth-aachen.de/publications/download/1031/KollerOscarZargaranSepehrNeyHermann--Re-SignRe-AlignedEnd-to-EndSequenceModellingwithDeepRecurrentCNN-HMMs--2017.pdf) [*code 非官方caffe*](https://github.com/huerlima/Re-Sign-Re-Aligned-End-to-End-Sequence-Modelling-with-Deep-Recurrent-CNN-HMMs)
 
 
 ### Neural SLT
 
-1. **Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation** `CVPR2020` [*paper*](https://arxiv.org/pdf/2003.13830.pdf) [*code*](https://github.com/neccam/slt) ==德国==
+1. **Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation** `CVPR2020` [*paper*](https://arxiv.org/pdf/2003.13830.pdf) [*code*](https://github.com/neccam/slt)
 2. **Neural Sign Language Translation** `CVPR2018` [*paper*](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf) [*code*](https://github.com/neccam/nslt)
 
 
@@ -352,17 +361,6 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 
 1. **Deep Learning of Mouth Shapes for Sign Language** `ICCVW2015` [*paper*](https://dl.acm.org/doi/10.1109/ICCVW.2015.69) *code*
 
-
-## XMU SL 
-- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
-
-
-## ZJU SL 
-- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
-
-
-## THU SL 
-- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
 
 ## Datasets
 

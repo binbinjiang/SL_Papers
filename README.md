@@ -10,9 +10,8 @@ NOTE: There are overlaps among different categories.
 
 
 ## See Also
-Other useful/recommended collection of papers:
-[[1. github]](https://github.com/0aqz0/SLRPapers)
-[[2. github]](https://github.com/biaofuxmu/Awesome-Sign-Language-Translation)
+Other useful/recommended collection of AI sign language papers:
+[[github]](https://github.com/0aqz0/SLRPapers)
 
 
 

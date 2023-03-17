@@ -6,32 +6,35 @@ Keywords: Sign Language; Sign Language Translation (SLT); Sign Language Recognit
 
 In this repository, we have collected AI sign language (SL) papers for those interested in the field. To facilitate retrieval and viewing, we classify according to different criteria (by time, research types, institutions, etc.). 
 
-If these are useful to you, please support us with **Star** and we will update as soon as possible.
+If these are useful to you, please **Star** this repo and we will update as soon as possible.
 
 NOTE: There are overlaps among different categories.
 
 
 ## See Also
-Collaborators: 
-[Haodong Zhang - Github homepage](https://github.com/0aqz0)
+- Collaborators & Contributors:
+  - Jiangbin Zheng, Westlake University & Zhejiang University, China
+  - Yidong Chen, Xiamen University, China
+  - Pei Yu, Xiamen University, China
+  - [Haodong Zhang](https://github.com/0aqz0), Zhejiang University, China
+  - [Junfu Pu](https://github.com/Jevin754), University Of Science and Technology of China
 
-Other useful/recommended collection of AI sign language papers:
-[[github]](https://github.com/0aqz0/SLRPapers)
+- Other recommended collections of SL papers:
+[[Github]](https://github.com/0aqz0/SLRPapers)
 
 
 ## Table of Content
-- **[AI Sign language in Timeline](#2023)**
+- **[AI Sign Language in Timeline](#timeline-of-ai-sign-language)**
   - **[2023](#2023)**
   - **[2022](#2022)**
   - **[2021](#2021)**
   - **[2020](#2020)**
   - **[2019](#2019)**
   - **[2018](#2018)**
-  - **[Earlier](#Earlier)**
+  - **[Earlier](#earlier)**
 
-- **[AI Sign language in Types](#slt)**
+- **[AI Sign Language in Types](#ai-sign-language-in-types)**
   - **[Sign Language Translation (SLT)](#slt)**
-
   - **[Sign Language Recognition (SLR)](#slr)**
     - [CTC-Iteration for Alignment](#ctc-iteration-for-alignment)
     - [CNN+RNN](#cnnrnn)
@@ -47,11 +50,10 @@ Other useful/recommended collection of AI sign language papers:
   - **[SignText-SignGloss Translation](#text-gloss)**
 
 - **[AI Sign Language in Institutions](#ustc-slr)**
-  - **[Koller&Camgoz (英德) SL](#rwth)**
   - **[USTC（中科大）SL](#ustc-slr)**
   - **[XMU (厦门大学) SL](#xmu_sl)**
   - **[ZJU (浙江大学) SL](#zju_sl)**
-  - **[THU (清华大学) SL](#thu_sl)**
+  - **[Koller&Camgoz (英德) SL](#rwth)**
 
 
 - **[SL Survey Papers](#survey)**
@@ -59,8 +61,6 @@ Other useful/recommended collection of AI sign language papers:
 
 
 - **[SL Linguistics](#sl_ling)**
-
-
 
 
 - **[Datasets](#datasets)**
@@ -71,15 +71,50 @@ Other useful/recommended collection of AI sign language papers:
   - [Video Captioning](#video-captioning)
 
 ## Timeline of AI Sign Language
-
 ### 2023
+[[Back to TOP]](#table-of-content)
+
 - 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
 
 
 ### 2022
-TODO
+[[Back to TOP]](#table-of-content)
+
+- 【CVPR 2022】A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. [[paper]](https://arxiv.org/abs/2203.04287)
+     *Yutong Chen, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin*
+- 【CVPR 2022】MLSLT: Towards Multilingual Sign Language Translation. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yin_MLSLT_Towards_Multilingual_Sign_Language_Translation_CVPR_2022_paper.pdf)
+     *Aoxiong Yin, Zhou Zhao, Weike Jin, Meng Zhang, Xingshan Zeng, Xiaofei He*
+- 【CVPR 2022】C2SLR: Consistency-Enhanced Continuous Sign Language Recognition. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Zuo_C2SLR_Consistency-Enhanced_Continuous_Sign_Language_Recognition_CVPR_2022_paper.html)
+     *Ronglai Zuo, Brian Mak*
+- 【NeurIPS 2022】Two-Stream Network for Sign Language Recognition and Translation. [[paper]](https://arxiv.org/abs/2211.01367)
+     *Yutong Chen, Ronglai Zuo, Fangyun Wei, Yu Wu, Shujie Liu, Brian Mak*
+- 【AAAI 2023】Self-Emphasizing Network for Continuous Sign Language Recognition. [[paper]](https://arxiv.org/pdf/2211.17081.pdf)
+     *Lianyu Hu, Liqing Gao, Zekang liu, Wei Feng*
+- 【EACL 2023】Scaling Back-Translation with Domain Text Generation for Sign Language Gloss Translation. [[paper]](https://arxiv.org/abs/2210.07054)
+     *Jinhui Ye, Wenxiang Jiao, Xing Wang, Zhaopeng Tu*
+- 【EMNLP 2022】Open-Domain Sign Language Translation Learned from Online Video. [[paper]](https://arxiv.org/abs/2205.12870)
+     *Bowen Shi, Diane Brentari, Greg Shakhnarovich, Karen Livescu*
+- 【NAACL 2022 findings】Explore More Guidance: A Task-aware Instruction Network for Sign Language Translation Enhanced with Data Augmentation. [[paper]](https://arxiv.org/pdf/2204.05953.pdf)
+     *Yong Cao, Wei Li, Xianzhi Li, Min Chen, Guangyong Chen, Long Hu, Zhengdao Li, Hwang Kai*
+- 【ICASSP 2023】A Token-level Contrastive Framework for Sign Language Translation. [[paper]](https://arxiv.org/pdf/2204.04916.pdf)
+     *Biao Fu, Peigen Ye, Liang Zhang, Pei Yu, Cong Hu, Yidong Chen, Xiaodong Shi*
+- 【ACL 2022】WLASL-LEX: a Dataset for Recognising Phonological Properties in American Sign Language. [[paper]](https://arxiv.org/pdf/2203.06096.pdf)
+     *Federico Tavella, Viktor Schlegel, Marta Romeo, Aphrodite Galata, Angelo Cangelosi*
+- 【ACL 2022】Searching for fingerspelled content in American Sign Language. [[paper]](https://arxiv.org/pdf/2203.13291.pdf)
+     *Bowen Shi, Diane Brentari, Greg Shakhnarovich, Karen Livescu*
+- 【ECCV 2022】Automatic dense annotation of large-vocabulary sign language videos. [[paper]](https://arxiv.org/pdf/2208.02802.pdf)
+     *Liliane Momeni, Hannah Bull, K R Prajwal, Samuel Albanie, Gül Varol, Andrew Zisserman*
+- 【ECCV 2022】Temporal Lift Pooling for Continuous Sign Language Recognition. [[paper]](https://arxiv.org/abs/2207.08734)
+     *Lianyu Hu, Liqing Gao, Zekang Liu, Wei Feng*
+- 【ACM MM 2022】MC-SLT: Towards Low-Resource Signer-Adaptive Sign Language Translation. [[paper]](https://dl.acm.org/doi/abs/10.1145/3503161.3548069)
+     *Tao Jin, Zhou Zhao, Meng Zhang, Xingshan Zeng*
+- 【WACV 2022】Sign Language Translation With Hierarchical Spatio-Temporal Graph Neural Network. [[paper]](https://openaccess.thecvf.com/content/WACV2022/papers/Kan_Sign_Language_Translation_With_Hierarchical_Spatio-Temporal_Graph_Neural_Network_WACV_2022_paper.pdf)
+     *Jichao Kan, Kun Hu, Markus Hagenbuchner, Ah Chung Tsoi, Mohammed Bennamoun, Zhiyong Wang*
+
 
 ### 2021
+[[Back to TOP]](#table-of-content)
+
 - 【2021 TMM】Spatial-Temporal Multi-Cue Network for Sign Language Recognition and Translation.[[paper]](https://ieeexplore.ieee.org/abstract/document/9354538/)    
   *Hao Zhou, Wengang Zhou, Yun Zhou, Houqiang Li*
 - 【ICCV 2021】YouRefIt: Embodied Reference Understanding With Language and Gesture.[[paper]](https://arxiv.org/abs/2109.03413)    
@@ -121,6 +156,8 @@ TODO
 - 【WACV 2021】Whose hand is this? Person Identification from Egocentric Hand Gestures.[[paper]](https://arxiv.org/abs/2011.08900)      *Satoshi Tsutsui; Yanwei Fu; David Crandall*
 
 ### 2020
+[[Back to TOP]](#table-of-content)
+
 - 【2020 IJCV】Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks.[[paper]](<https://link.springer.com/content/pdf/10.1007%2Fs11263-019-01281-2.pdf>)   
   *Stephanie Stoll, Necati Cihan Camgoz, Simon Hadfield, Richard Bowden*
 - 【ACM MM 2020】INCLUDE: A Large Scale Dataset for Indian Sign Language Recognition.[[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413528)    
@@ -180,7 +217,21 @@ TODO
   *Jan Zelinka, Jakub Kanis*
 
 
-## SLT
+### 2019
+[[Back to TOP]](#table-of-content)
+
+### 2018
+[[Back to TOP]](#table-of-content)
+
+### Earlier
+[[Back to TOP]](#table-of-content)
+
+
+## AI Sign Language in Types
+
+### SLT
+[[Back to TOP]](#table-of-content)
+
 1. **Multi-channel Transformers for Multi-articulatory Sign Language Translation** `arxiv2020` [*paper*](https://arxiv.org/pdf/2009.00299.pdf) *code*
 1. **Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation** `CVPR2020` [*paper*](https://arxiv.org/pdf/2003.13830.pdf) [*code*](https://github.com/neccam/slt) ==德国==
 2. **Sign Language Translation with Transformers** `ArXiv2020` [*paper*](https://arxiv.org/pdf/2004.00588.pdf) [*code*](https://github.com/kayoyin/transformer-slt) 
@@ -190,6 +241,7 @@ TODO
 
 
 ## SLR
+[[Back to TOP]](#table-of-content)
 
 ### CTC-Iteration for Alignment
 * mainly CNN+RNN*
@@ -262,6 +314,7 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 
 
 ### G2T
+[[Back to TOP]](#table-of-content)
 
 1. **Translation of sign language glosses to text using sequence-to-sequence attention models.** `SITIS2019` [*paper*](https://www.researchgate.net/publication/340689060_Translation_of_Sign_Language_Glosses_to_Text_Using_Sequence-to-Sequence_Attention_Models) *code*
 
@@ -325,7 +378,6 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 
 
 
-
 ## XMU SL (#xmu_sl)
 - 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
 
@@ -334,18 +386,16 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 - 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
 
 
-## THU SL (#thu_sl)
-- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
 
 
 ## RWTH
-*英国Oscar Koller、Camgoz等人工作的专题
+*Oscar Koller、Camgoz et. al
 1. **Multi-channel Transformers for Multi-articulatory Sign Language Translation** `arxiv2020` [*paper*](https://arxiv.org/pdf/2009.00299.pdf) *code*
-1. **Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation** `CVPR2020` [*paper*](https://arxiv.org/pdf/2003.13830.pdf) [*code*](https://github.com/neccam/slt)
-2. **Sign Language Translation with Transformers** `ArXiv2020` [*paper*](https://arxiv.org/pdf/2004.00588.pdf) [*code*](https://github.com/kayoyin/transformer-slt)
-5. **Neural Sign Language Translation** `CVPR2018` [*paper*](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf) [*code*](https://github.com/neccam/nslt)
+2. **Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation** `CVPR2020` [*paper*](https://arxiv.org/pdf/2003.13830.pdf) [*code*](https://github.com/neccam/slt)
+3. **Sign Language Translation with Transformers** `ArXiv2020` [*paper*](https://arxiv.org/pdf/2004.00588.pdf) [*code*](https://github.com/kayoyin/transformer-slt)
+4. **Neural Sign Language Translation** `CVPR2018` [*paper*](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf) [*code*](https://github.com/neccam/nslt)
 5. **Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos** `TRAMI2019` [*paper*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8691602) [*code 非官方caffe*](https://github.com/huerlima/Re-Sign-Re-Aligned-End-to-End-Sequence-Modelling-with-Deep-Recurrent-CNN-HMMs)
-8. **Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs** `CVPR2017` [*paper*](https://www-i6.informatik.rwth-aachen.de/publications/download/1031/KollerOscarZargaranSepehrNeyHermann--Re-SignRe-AlignedEnd-to-EndSequenceModellingwithDeepRecurrentCNN-HMMs--2017.pdf) [*code 非官方caffe*](https://github.com/huerlima/Re-Sign-Re-Aligned-End-to-End-Sequence-Modelling-with-Deep-Recurrent-CNN-HMMs)
+6. **Re-Sign: Re-Aligned End-to-End Sequence Modelling with Deep Recurrent CNN-HMMs** `CVPR2017` [*paper*](https://www-i6.informatik.rwth-aachen.de/publications/download/1031/KollerOscarZargaranSepehrNeyHermann--Re-SignRe-AlignedEnd-to-EndSequenceModellingwithDeepRecurrentCNN-HMMs--2017.pdf) [*code 非官方caffe*](https://github.com/huerlima/Re-Sign-Re-Aligned-End-to-End-Sequence-Modelling-with-Deep-Recurrent-CNN-HMMs)
 
 
 ### Neural SLT

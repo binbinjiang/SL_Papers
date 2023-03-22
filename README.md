@@ -1,21 +1,20 @@
 # LATEST Awesome AI Sign Language Papers
 
-Keywords: Sign Language; Sign Language Translation (SLT); Sign Language Recognition (SLR); Sign Language Linguistics
+**Keywords**: Sign Language, Sign Language Translation (SLT), Sign Language Recognition (SLR), Sign Language Linguistics
 
-## Papers about AI Sign language  [**UPDATING**]
+## AI Sign language Papers [**UPDATING**]
 
-In this repository, we have collected AI sign language (SL) papers for those interested in the field. To facilitate retrieval and viewing, we classify according to different criteria (by time, research types, institutions, etc.). 
+In this repository, we have collected papers for those interested in the field of AI sign language (SL). For easy searching and viewing, we have categorized them according to different criteria (by time, type of research, institution, etc.).
 
-If these are useful to you, please **Star** this repo and we will update as soon as possible.
+If these are useful to you, please **Star** this repo and we will keep it updated.
 
 NOTE: There are overlaps among different categories.
 
 
 ## See Also
 - Collaborators & Contributors:
-  - Jiangbin Zheng, Westlake University & Zhejiang University, China
-  - Yidong Chen, Xiamen University, China
-  - Pei Yu, Xiamen University, China
+  - [Jiangbin Zheng](https://github.com/binbinjiang), Westlake University & Zhejiang University, China
+  - [Yidong Chen](https://github.com/ydc) & Pei Yu, Xiamen University, China
   - [Haodong Zhang](https://github.com/0aqz0), Zhejiang University, China
   - [Junfu Pu](https://github.com/Jevin754), University Of Science and Technology of China
 
@@ -47,21 +46,17 @@ NOTE: There are overlaps among different categories.
     - [HMM](#hmm)
   - **[Text2Sign](#text2sign)**
   
-  - **[SignText-SignGloss Translation](#text-gloss)**
+  - **[Text-Gloss Translation](#text-gloss-translation)**
 
 - **[AI Sign Language in Institutions](#ustc-slr)**
-  - **[USTC（中科大）SL](#ustc-slr)**
-  - **[XMU (厦门大学) SL](#xmu_sl)**
-  - **[ZJU (浙江大学) SL](#zju_sl)**
+  - **[USTC (中科大) SL](#ustc-sl)**
+  - **[XMU (厦门大学) SL](#xmu-sl)**
+  - **[ZJU (浙江大学) SL](#zju-sl)**
   - **[Koller&Camgoz (英德) SL](#rwth)**
 
+- **[SL Survey Review Papers](#sl-survey-review-papers)**
 
-- **[SL Survey Papers](#survey)**
-
-
-
-- **[SL Linguistics](#sl_ling)**
-
+- **[SL Linguistics](#sl-linguistics)**
 
 - **[Datasets](#datasets)**
 
@@ -74,7 +69,7 @@ NOTE: There are overlaps among different categories.
 ### 2023
 [[Back to TOP]](#table-of-content)
 
-- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
+- CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. `CVPR 2023; Highlight Paper` [[paper]](https://arxiv.org/abs/2303.05725) [[*code*]](https://github.com/binbinjiang/CVT-SLR)  ==ZJU&XMU&THU; SLR; Latest==
 
 
 ### 2022
@@ -342,14 +337,18 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 
 
 ## Text2Sign
+[[Back to TOP]](#table-of-content)
 
 1. **Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks** `IJCV2020` [*paper*](https://link.springer.com/content/pdf/10.1007%2Fs11263-019-01281-2.pdf) *code*
 2. **Progressive Transformers for End-to-End Sign Language Production** `ECCV2020` [*paper*](https://arxiv.org/pdf/2004.14874.pdf) *code*
 
 
+## Text-Gloss Translation
+[[Back to TOP]](#table-of-content)
 
 
-## USTC SLR
+## USTC-SL
+[[Back to TOP]](#table-of-content)
 
 ##### Conference papers:
 1. **Boosting Continuous Sign Language Recognition via Cross Modality Augmentation** `ACMMM2020` 
@@ -378,12 +377,24 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 
 
 
-## XMU SL (#xmu_sl)
-- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
+## XMU-SL
+[[Back to TOP]](#table-of-content)
+
+-  CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. `CVPR 2023; Highlight Paper` [[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
+
+-  Enhancing neural sign language translation by highlighting the facial expression information. `Neurocomputing 2021` [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012698)
+
+-  Leveraging Graph-based Cross-modal Information Fusion for Neural Sign Language Translation. `Arxiv 2021` [[paper]](https://arxiv.org/pdf/2211.00526.pdf)
+
+-  Improved Sign Language Translation Model with Explainable Adaptations for Processing Long Sign Sentences. `CIN 2020` [[paper]](https://www.hindawi.com/journals/cin/2020/8816125/)
+
+- Technical approaches to Chinese sign language processing: A review. `IEEE Access 2019`  [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8764391) ==Review Paper==
 
 
-## ZJU SL (#zju_sl)
-- 【CVPR 2023】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment.[[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
+## ZJU-SL
+[[Back to TOP]](#table-of-content)
+
+- CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. `CVPR 2023; Highlight Paper` [[paper]](https://arxiv.org/abs/2303.05725) [[*code*]](https://github.com/binbinjiang/CVT-SLR)  ==ZJU&XMU&THU; SLR; Latest==
 
 
 
@@ -412,7 +423,19 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 1. **Deep Learning of Mouth Shapes for Sign Language** `ICCVW2015` [*paper*](https://dl.acm.org/doi/10.1109/ICCVW.2015.69) *code*
 
 
+
+## SL SURVEY REVIEW PAPERS
+[[Back to TOP]](#table-of-content)
+
+- Technical approaches to Chinese sign language processing: A review. `IEEE Access 2019`  [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8764391) ==Review Paper==
+
+
+## SL Linguistics
+[[Back to TOP]](#table-of-content)
+
+
 ## Datasets
+[[Back to TOP]](#table-of-content)
 
 | Dataset                                                      | Language    | Classes | Samples | Data Type                    | Language Level |
 | ------------------------------------------------------------ | ----------- | ------- | ------- | ---------------------------- | :------------- |
@@ -446,6 +469,7 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 
 
 ## Related Fields
+[[Back to TOP]](#table-of-content)
 
 ### Action Recognition
 

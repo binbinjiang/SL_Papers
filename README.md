@@ -382,6 +382,10 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 
 -  CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. `CVPR 2023; Highlight Paper` [[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
 
+- A Token-level Contrastive Framework for Sign Language Translation.  `ICASSP 2023` [[paper]](https://arxiv.org/pdf/2204.04916.pdf)
+
+- Efficient Sign Language Translation with a Curriculum-based NAR Decoder.  `IJCAI 2023` [paper]
+
 -  Enhancing neural sign language translation by highlighting the facial expression information. `Neurocomputing 2021` [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012698)
 
 -  Leveraging Graph-based Cross-modal Information Fusion for Neural Sign Language Translation. `Arxiv 2021` [[paper]](https://arxiv.org/pdf/2211.00526.pdf)

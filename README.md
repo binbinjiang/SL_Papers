@@ -49,8 +49,8 @@ NOTE: There are overlaps among different categories.
   - **[Text-Gloss Translation](#text-gloss-translation)**
 
 - **[AI Sign Language in Institutions](#ustc-slr)**
-  - **[USTC (中科大) SL](#ustc-sl)**
   - **[XMU (厦门大学) SL](#xmu-sl)**
+  - **[USTC (中科大) SL](#ustc-sl)**
   - **[ZJU (浙江大学) SL](#zju-sl)**
   - **[Koller&Camgoz (英德) SL](#rwth)**
 
@@ -347,6 +347,26 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 [[Back to TOP]](#table-of-content)
 
 
+
+## XMU-SL
+[[Back to TOP]](#table-of-content)
+
+-  CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. `CVPR 2023; Highlight Paper` [[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
+
+- A Token-level Contrastive Framework for Sign Language Translation.  `ICASSP 2023` [[paper]](https://arxiv.org/pdf/2204.04916.pdf)
+
+- Efficient Sign Language Translation with a Curriculum-based NAR Decoder.  `IJCAI 2023` [paper]
+
+-  Enhancing neural sign language translation by highlighting the facial expression information. `Neurocomputing 2021` [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012698)
+
+-  Leveraging Graph-based Cross-modal Information Fusion for Neural Sign Language Translation. `Arxiv 2021` [[paper]](https://arxiv.org/pdf/2211.00526.pdf)
+
+-  Improved Sign Language Translation Model with Explainable Adaptations for Processing Long Sign Sentences. `CIN 2020` [[paper]](https://www.hindawi.com/journals/cin/2020/8816125/)
+
+- Technical approaches to Chinese sign language processing: A review. `IEEE Access 2019`  [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8764391) ==Review Paper==
+  
+  
+
 ## USTC-SL
 [[Back to TOP]](#table-of-content)
 
@@ -376,23 +396,6 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 2. **Attention based 3D-CNNs for Large-Vocabulary Sign Language Recognition** `TCSVT2018` *paper* *code*
 
 
-
-## XMU-SL
-[[Back to TOP]](#table-of-content)
-
--  CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. `CVPR 2023; Highlight Paper` [[paper]](https://arxiv.org/abs/2303.05725)  ==ZJU&XMU&THU; SLR; Latest==
-
-- A Token-level Contrastive Framework for Sign Language Translation.  `ICASSP 2023` [[paper]](https://arxiv.org/pdf/2204.04916.pdf)
-
-- Efficient Sign Language Translation with a Curriculum-based NAR Decoder.  `IJCAI 2023` [paper]
-
--  Enhancing neural sign language translation by highlighting the facial expression information. `Neurocomputing 2021` [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012698)
-
--  Leveraging Graph-based Cross-modal Information Fusion for Neural Sign Language Translation. `Arxiv 2021` [[paper]](https://arxiv.org/pdf/2211.00526.pdf)
-
--  Improved Sign Language Translation Model with Explainable Adaptations for Processing Long Sign Sentences. `CIN 2020` [[paper]](https://www.hindawi.com/journals/cin/2020/8816125/)
-
-- Technical approaches to Chinese sign language processing: A review. `IEEE Access 2019`  [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8764391) ==Review Paper==
 
 
 ## ZJU-SL

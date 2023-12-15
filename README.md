@@ -1,28 +1,66 @@
-# LATEST Awesome AI Sign Language Papers
+# LATEST Awesome AI Sign Language Papers & Popularization of Professional Knowledge
 
 **Keywords**: Sign Language, Sign Language Translation (SLT), Sign Language Recognition (SLR), Sign Language Linguistics
 
 ## AI Sign language Papers [**UPDATING**]
 
-In this repository, we have collected papers for those interested in the field of AI sign language (SL). For easy searching and viewing, we have categorized them according to different criteria (by time, type of research, institution, etc.).
+This repository is for those interested in the field of AI sign language (SL). The collected papers have been categorized according to different criteria (btime, type, institution, etc.) for ease of searching.
 
-If these are useful to you, please **Star** this repo and we will keep it updated.
+If useful, please **Star** this repo, we are keeping it updated.
 
-NOTE: There are overlaps among different categories.
+**NOTE**: There is overlap between the different categories. Please feel free to submit your ***Pull Requests*** for any updates.
 
-
-## See Also
-- Collaborators & Contributors:
+- Collaborators & Contributors (welcome to join us!):
   - [Jiangbin Zheng](https://github.com/binbinjiang), Westlake University & Zhejiang University, China
-  - [Yidong Chen](https://github.com/ydc) & Pei Yu, Xiamen University, China
+  - [Yidong Chen](https://github.com/ydc) & [Pei Yu](https://github.com/yp20000921) & [Rui Zhao](https://github.com/rzhao-zhsq), Xiamen University, China
   - [Haodong Zhang](https://github.com/0aqz0), Zhejiang University, China
   - [Junfu Pu](https://github.com/Jevin754), University Of Science and Technology of China
 
-- Other recommended collections of SL papers:
-[[Github]](https://github.com/0aqz0/SLRPapers)
+## Popularization of Professional Knowledge
+
+### - Why AI Sign Language Reseaarch?
+
+<!-- ![](./src/fig1.jpg) -->
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="./src/fig1.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Figure 1. Communication gap between the hearing and the deaf.
+</div>
+</center>
+
+Sign languages are the primary language of the deaf community. However, most hearing people find it difficult to understand sign languages. With the development of AI, researchers are trying to help people understand sign languages using AI techniques that are designed to convert sign languages into spoken languages in textual form.
 
 
-## Table of Content
+### - Do you know the diffence between SLT and SLR?
+<!-- ![](./src/fig2.jpg) -->
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="./src/fig2.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Figure 2. SLR (Sign Language Recognition) vs. SLT (Sign Language Translation).
+</div>
+</center>
+
+At the very beggining, I wanna explain the difference between SLT and SLR, as shown in Fig. 2. I'm sure this is very important for most of you!
+
+
+In early efforts, researchers explored this problem (sign languages -> texts) as a recognition problem (i.e., SLR), which converts sign languages to glosses ***word by word*** according to the sign languages ***sequentially***. Although glosses are in textual form, they do not provide meaningful interpretations of what a signer is saying because sign languages and glosses have their own ***specific linguistic rules***, which are quite different from spoken languages.
+
+As a result, researchers find it terrible to ignore the linguistic properties of sign language. Contrary to SLR, sign language translaton (SLT) systems aim to translate sign language videos into spoken sentences directly. 
+
+As far as AI technology is concerned, SLR belongs to the field of *Computer Vision + Text Recognition*, while SLT belongs to the field of *Computer Vision + Text Translation*.
+
+
+## Table of Content - Papers
 - **[AI Sign Language in Timeline](#timeline-of-ai-sign-language)**
   - **[2023](#2023)**
   - **[2022](#2022)**
@@ -49,9 +87,9 @@ NOTE: There are overlaps among different categories.
   - **[Text-Gloss Translation](#text-gloss-translation)**
 
 - **[AI Sign Language in Institutions](#ustc-slr)**
-  - **[XMU (厦门大学) SL](#xmu-sl)**
-  - **[USTC (中科大) SL](#ustc-sl)**
-  - **[ZJU (浙江大学) SL](#zju-sl)**
+  - **[XMU(厦门大学)SL](#xmu-sl)**
+  - **[USTC(中科大)SL](#ustc-sl)**
+  - **[ZJU(浙江大学)SL](#zju-sl)**
   - **[Koller&Camgoz (英德) SL](#rwth)**
 
 - **[SL Survey Review Papers](#sl-survey-review-papers)**
@@ -446,7 +484,7 @@ Language Recognition by Iterative Training** `IEEE TRANSACTIONS ON MULTIMEDIA 20
 
 | Dataset                                                      | Language    | Classes | Samples | Data Type                    | Language Level |
 | ------------------------------------------------------------ | ----------- | ------- | ------- | ---------------------------- | :------------- |
-| **[ASLG-PC12](https://github.com/kayoyin/transformer-slt/tree/master/data) ->暂时没找到官方链接；used by [paper](https://arxiv.org/pdf/2004.00588.pdf)** | American     | -     | 87,709 | GLOSS&Sentences     | isolated       |
+| **[ASLG-PC12](https://github.com/kayoyin/transformer-slt/tree/master/data)[paper](https://arxiv.org/pdf/2004.00588.pdf)** | American     | -     | 87,709 | GLOSS&Sentences     | isolated       |
 | **[CSL Dataset I](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)** | Chinese     | 500     | 125,000 | Videos&Depth from Kinect     | isolated       |
 | **[CSL Dataset II](http://home.ustc.edu.cn/~pjh/openresources/cslr-dataset-2015/index.html)** | Chinese     | 100     | 25,000  | Videos&Depth from Kinect     | continuous     |
 | **[RWTH-PHOENIX-Weather 2014](https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX/)** | German      | 1,081   | 6,841   | Videos                       | continuous     |

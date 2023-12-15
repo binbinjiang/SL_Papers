@@ -36,7 +36,7 @@ If useful, please **Star** this repo, we are keeping it updated.
 Sign languages are the primary language of the deaf community. However, most hearing people find it difficult to understand sign languages. With the development of AI, researchers are trying to help people understand sign languages using AI techniques that are designed to convert sign languages into spoken languages in textual form.
 
 
-### - Do you know the diffence between SLT and SLR?
+### - Do you know the differences between SLT and SLR?
 <!-- ![](./src/fig2.jpg) -->
 <center>
     <img style="border-radius: 0.3125em;

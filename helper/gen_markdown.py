@@ -61,7 +61,7 @@ def Gen_Markdown_All_Years(Year_start, Year_end):
     for Year in range(Year_end, Year_start-1, -1):
         FileName = str(Year) if Year>Year_start else "Earlier"
         CURR_LINES = Gen_Markdown_Single_Year(Year=Year, Year_start=Year_start, FileName=FileName, out_file=True)
-        lines += f"### {FileName} <a name='sl_paper_{FileName}'></a>\n[[Back to TOP]](#table-of-content)\n{CURR_LINES}\n"
+        lines += f"### {FileName} <a name='sl_paper_{FileName.lower()}'></a>\n[[Back to TOP]](#table-of-content)\n{CURR_LINES}\n"
         print(Year, "-> finished!")
 
         with open("./markdown_Timelines_all.md", 'w', encoding="utf-8") as f:
@@ -117,7 +117,7 @@ def Gen_Markdown_All_Institutions(Institutions):
     lines = ""
     for Institution in Institutions:
         CURR_LINES = Gen_Markdown_Single_Institution(Institution=Institution, out_file=True)
-        lines += f"### {Institution} for AI Sign Language <a name='sl_paper_{Institution}'></a>\n[[Back to TOP]](#table-of-content)\n{CURR_LINES}\n"
+        lines += f"### {Institution} for AI Sign Language <a name='sl_paper_{Institution.lower()}'></a>\n[[Back to TOP]](#table-of-content)\n{CURR_LINES}\n"
         print(Institution, "-> finished!")
 
         with open("./markdown_Institutions_all.md", 'w', encoding="utf-8") as f:

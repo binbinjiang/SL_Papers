@@ -1,4 +1,4 @@
-### XMU for AI Sign Language <a name='sl_paper_XMU'></a>
+### XMU for AI Sign Language <a name='sl_paper_xmu'></a>
 [[Back to TOP]](#table-of-content)
 - 【CVPR 2023 `(Highlight Paper)`】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. *Jiangbin Zheng, Yile Wang, Cheng Tan, Siyuan Li, Ge Wang, Jun Xia, Yidong Chen, Stan Z. Li.* [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) [[code]](https://github.com/binbinjiang/CVT-SLR) `Tags:` **SLR**; Westlake University & Zhejiang University & Xiamen University & Tsinghua University
 - 【IJCAI 2023】Efficient Sign Language Translation with a Curriculum-based NAR Decoder. *Pei Yu1, Liang Zhang, Biao Fu1, Yidong Chen.* [[paper]](https://www.ijcai.org/proceedings/2023/0584.pdf) *code* `Tags:` **SLT**
@@ -8,7 +8,7 @@
 - 【CIN 2020】Improved Sign Language Translation Model with Explainable Adaptations for Processing Long Sign Sentences. [[paper]](https://www.hindawi.com/journals/cin/2020/8816125/) *code* `Tags:` **SLT**
 - 【IEEE Access 2019 (`Recommended`)】Technical approaches to Chinese sign language processing: A review. *Suhail Muhammad Kamal; Yidong Chen; Shaozi Li; Xiaodong Shi; Jiangbin Zheng.* [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8764391) *code* `Tags:` **Survey**
 
-### USTC for AI Sign Language <a name='sl_paper_USTC'></a>
+### USTC for AI Sign Language <a name='sl_paper_ustc'></a>
 [[Back to TOP]](#table-of-content)
 - 【ACMMM 2020】Boosting Continuous Sign Language Recognition via Cross Modality Augmentation. *Pu, Junfu, Wengang Zhou, Hezhen Hu, and Houqiang Li.* [[paper]](https://arxiv.org/pdf/2010.05264.pdf) *code* `Tags:` **SLR**
 - 【AAAI 2020】Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition. [[paper]](https://arxiv.org/pdf/2002.03187.pdf) *code* `Tags:` **SLR**
@@ -27,16 +27,16 @@
 - 【ICIP 2016】Sign language recognition based on adaptive HMMS with data augmentation. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7532885) *code* `Tags:` **SLR**
 - 【ICIP 2016】Sign Language Recognition With Long Short-Term Memory. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7532884) *code* `Tags:` **SLR**
 
-### ZJU for AI Sign Language <a name='sl_paper_ZJU'></a>
+### ZJU for AI Sign Language <a name='sl_paper_zju'></a>
 [[Back to TOP]](#table-of-content)
 - 【CVPR 2023 `(Highlight Paper)`】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. *Jiangbin Zheng, Yile Wang, Cheng Tan, Siyuan Li, Ge Wang, Jun Xia, Yidong Chen, Stan Z. Li.* [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) [[code]](https://github.com/binbinjiang/CVT-SLR) `Tags:` **SLR**; Westlake University & Zhejiang University & Xiamen University & Tsinghua University
 
-### THU for AI Sign Language <a name='sl_paper_THU'></a>
+### THU for AI Sign Language <a name='sl_paper_thu'></a>
 [[Back to TOP]](#table-of-content)
 - 【CVPR 2023 `(Highlight Paper)`】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. *Jiangbin Zheng, Yile Wang, Cheng Tan, Siyuan Li, Ge Wang, Jun Xia, Yidong Chen, Stan Z. Li.* [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) [[code]](https://github.com/binbinjiang/CVT-SLR) `Tags:` **SLR**; Westlake University & Zhejiang University & Xiamen University & Tsinghua University
 - 【CVPR 2022】A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. *Yutong Chen, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin.* [[paper]](https://arxiv.org/abs/2203.04287) *code* `Tags:` **SLT**
 
-### Germany-UK for AI Sign Language <a name='sl_paper_Germany-UK'></a>
+### Germany-UK for AI Sign Language <a name='sl_paper_germany-uk'></a>
 [[Back to TOP]](#table-of-content)
 - 【arXiv 2020】Multi-channel Transformers for Multi-articulatory Sign Language Translation. [[paper]](https://arxiv.org/pdf/2009.00299.pdf) *code* `Tags:` **SLT**
 - 【CVPR 2020】Sign Language Transformers: Joint End-to-end Sign Language Recognition and Translation. *Necati Cihan Camgoz, Oscar Koller, Simon Hadfield, and Richard Bowden.* [[paper]](https://arxiv.org/pdf/2003.13830.pdf) [[code]](https://github.com/neccam/slt) `Tags:` **SLT**

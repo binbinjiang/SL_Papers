@@ -1,0 +1,16 @@
+- 【IEEE Access 2019 (`Recommended`)】Technical approaches to Chinese sign language processing: A review. *Suhail Muhammad Kamal; Yidong Chen; Shaozi Li; Xiaodong Shi; Jiangbin Zheng.* [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8764391) *code* `Tags:` **Survey**
+- 【BigMM 2019】Deep Grammatical Multi-classifier for Continuous Sign Language Recognition. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8919458) *code* `Tags:` **SLR**
+- 【ICIP 2019】Continuous Sign Language Recognition via Reinforcement Learning. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8802972) *code* `Tags:` **SLR**
+- 【ICME 2019】Dynamic Pseudo Label Decoding for Continuous Sign Language Recognition. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8784863) *code* `Tags:` **SLR**
+- 【IJCAI 2019】Dense Temporal Convolution Network for Sign Language Translation. [[paper]](https://www.ijcai.org/Proceedings/2019/0105.pdf) *code* `Tags:` **SLR**
+- 【IEEE TRANSACTIONS ON MULTIMEDIA 2019】A Deep Neural Framework for Continuous Sign Language Recognition by Iterative Training. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8598757&tag=1) *code* `Tags:` **SLR**
+- 【CVPR 2019】Iterative Alignment Network for Continuous Sign Language. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pu_Iterative_Alignment_Network_for_Continuous_Sign_Language_Recognition_CVPR_2019_paper.pdf) *code* `Tags:` **SLR**
+- 【TPAMI 2019】Weakly Supervised Learning with Multi-Stream CNN-LSTM-HMMs to Discover Sequential Parallelism in Sign Language Videos. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8691602) [[code]](https://github.com/huerlima/Re-Sign-Re-Aligned-End-to-End-Sequence-Modelling-with-Deep-Recurrent-CNN-HMMs) `Tags:` **SLR**
+- 【arXiv 2019】SF-Net: Structured Feature Network for Continuous Sign Language Recognition. [[paper]](https://arxiv.org/pdf/1908.01341.pdf) *code* `Tags:` **SLR**
+- 【IEEE ACCESS 2019】Dynamic Sign Language Recognition Based on Video Sequence With BLSTM-3D Residual Networks. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667292) *code* `Tags:` **SLR**
+- 【ICCV 2019】Temporal Accumulative Features for Sign Language Recognition. [[paper]](https://arxiv.org/pdf/2004.01225.pdf) *code* `Tags:` **SLR**
+- 【ICCCM 2019】Thai Sign Language Recognition Using 3D Convolutional Neural Networks. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3348445.3348452?download=true) *code* `Tags:` **SLR**
+- 【DSAA 2019】Sign Language Recognition Analysis using Multimodal Data. [[paper]](https://arxiv.org/pdf/1909.11232.pdf) *code* `Tags:` **SLR**
+- 【ICANN 2019】Spatial-Temporal Graph Convolutional Networks for Sign Language Recognition. [[paper]](https://arxiv.org/pdf/1901.11164.pdf) [[code]](https://github.com/amorim-cleison/st-gcn-sl) `Tags:` **SLR**
+- 【ICCV 2019】Fingerspelling recognition in the wild with iterative visual attention. [[paper]](https://arxiv.org/pdf/1908.10546.pdf) *code* `Tags:` **SLR**
+- 【SITIS 2019】Translation of sign language glosses to text using sequence-to-sequence attention models. [[paper]](https://www.researchgate.net/publication/340689060_Translation_of_Sign_Language_Glosses_to_Text_Using_Sequence-to-Sequence_Attention_Models) *code* `Tags:` **Gloss2Text**

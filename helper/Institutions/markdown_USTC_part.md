@@ -1,0 +1,16 @@
+- 【ACMMM 2020】Boosting Continuous Sign Language Recognition via Cross Modality Augmentation. *Pu, Junfu, Wengang Zhou, Hezhen Hu, and Houqiang Li.* [[paper]](https://arxiv.org/pdf/2010.05264.pdf) *code* `Tags:` **SLR**
+- 【AAAI 2020】Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition. [[paper]](https://arxiv.org/pdf/2002.03187.pdf) *code* `Tags:` **SLR**
+- 【TCSVT 2020】Semantic Boundary Detection with Reinforcement Learning for Continuous Sign Language Recognition. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9106402) *code* `Tags:` **SLR**
+- 【BigMM 2019】Deep Grammatical Multi-classifier for Continuous Sign Language Recognition. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8919458) *code* `Tags:` **SLR**
+- 【IJCAI 2019】Dense Temporal Convolution Network for Sign Language Translation. [[paper]](https://www.ijcai.org/Proceedings/2019/0105.pdf) *code* `Tags:` **SLR**
+- 【IEEE TRANSACTIONS ON MULTIMEDIA 2019】A Deep Neural Framework for Continuous Sign Language Recognition by Iterative Training. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8598757&tag=1) *code* `Tags:` **SLR**
+- 【CVPR 2019】Iterative Alignment Network for Continuous Sign Language. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Pu_Iterative_Alignment_Network_for_Continuous_Sign_Language_Recognition_CVPR_2019_paper.pdf) *code* `Tags:` **SLR**
+- 【AAAI 2018】Video-based sign language recognition without temporal segmentation. [[paper]](https://arxiv.org/pdf/1801.10111.pdf) *code* `Tags:` **SLR**
+- 【AAAI 2018】Hierarchical LSTM for Sign Language Translation. [[paper]](https://pdfs.semanticscholar.org/d44c/20c48e764a546d00b9155a56b171b0dc04bc.pdf) *code* `Tags:` **SLT**
+- 【ACMMM 2018】Connectionist Temporal Fusion for Sign Language Translation. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240671) *code* `Tags:` **SLT**
+- 【IJCAI 2018】Dilated Convolutional Network with Iterative Optimization for Continuous Sign Language Recognition. [[paper]](https://www.ijcai.org/Proceedings/2018/0123.pdf) [[code]](https://github.com/ustc-slr/DilatedSLR) `Tags:` **SLR**
+- 【ICME 2016】Chinese sign language recognition with adaptive HMM. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7552950) *code* `Tags:` **SLR**
+- 【PCM2016】Sign Language Recognition with Multi-modal Features. [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-48896-7_25) *code* `Tags:` **SLR**
+- 【ICME2015】Sign language recognition using 3D convolutional neural networks. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7177428) *code* `Tags:` **SLR**
+- 【ICIP 2016】Sign language recognition based on adaptive HMMS with data augmentation. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7532885) *code* `Tags:` **SLR**
+- 【ICIP 2016】Sign Language Recognition With Long Short-Term Memory. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7532884) *code* `Tags:` **SLR**

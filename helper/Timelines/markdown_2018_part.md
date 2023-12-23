@@ -1,0 +1,10 @@
+- 【TCSVT 2018】Attention based 3D-CNNs for Large-Vocabulary Sign Language Recognition. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8466903) *code* `Tags:` **SLR**
+- 【AAAI 2018】Video-based sign language recognition without temporal segmentation. [[paper]](https://arxiv.org/pdf/1801.10111.pdf) *code* `Tags:` **SLR**
+- 【AAAI 2018】Hierarchical LSTM for Sign Language Translation. [[paper]](https://pdfs.semanticscholar.org/d44c/20c48e764a546d00b9155a56b171b0dc04bc.pdf) *code* `Tags:` **SLT**
+- 【ACMMM 2018】Connectionist Temporal Fusion for Sign Language Translation. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240671) *code* `Tags:` **SLT**
+- 【arXiv 2018】Neural Sign Language Translation based on Human Keypoint Estimation. *Sang-Ki Ko, Chang Jo Kim, Hyedong Jung, Choongsang Cho.* [[paper]](https://arxiv.org/pdf/1811.11436.pdf) *code* `Tags:` **SLT**
+- 【CVPR 2018】Neural Sign Language Translation. *Necati Cihan Camgoz, Simon Hadfield, Oscar Koller, Hermann Ney, Richard Bowden.* [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Camgoz_Neural_Sign_Language_CVPR_2018_paper.pdf) [[code]](https://github.com/neccam/nslt) `Tags:` **SLT**
+- 【IJCAI 2018】Dilated Convolutional Network with Iterative Optimization for Continuous Sign Language Recognition. [[paper]](https://www.ijcai.org/Proceedings/2018/0123.pdf) [[code]](https://github.com/ustc-slr/DilatedSLR) `Tags:` **SLR**
+- 【ETRI 2018】Human-like sign-language learning method using deep learning. [[paper]](https://onlinelibrary.wiley.com/doi/pdf/10.4218/etrij.2018-0066) *code* `Tags:` **SLR**
+- 【IJCV 2018】Deep Sign: Enabling Robust Statistical Continuous Sign Language Recognition via Hybrid CNN-HMMs. [[paper]](https://dl.acm.org/doi/10.1007/s11263-018-1121-3) *code* `Tags:` **SLR**
+- 【NIPS 2018】Attention in Convolutional LSTM for Gesture Recognition. [[paper]](http://papers.nips.cc/paper/7465-attention-in-convolutional-lstm-for-gesture-recognition.pdf) [[code]](https://github.com/GuangmingZhu/AttentionConvLSTM) `Tags:` **SLR**

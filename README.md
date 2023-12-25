@@ -299,7 +299,7 @@ Language Recognition by Iterative Training. [[paper]](https://ieeexplore.ieee.or
 [[Back to TOP]](#table-of-content)
 
 - 【ICASSP 2024】An Explicit Multi-Modal Fusion Method For Sign Language Translation. *Cong Hu, Biao Fu, Pei Yu, Liang Zhang, Xiaodong Shi, Yidong Chen.*
-- 【AAAI 2024】Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment. *Rui Zhao, Liang Zhang, Biao Fu, Cong Hu, Jinsong Su, Yidong Chen.*  [[code]][https://github.com/rzhao-zhsq/CV-SLT] `Tags:` **SLT**
+- 【AAAI 2024】Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment. *Rui Zhao, Liang Zhang, Biao Fu, Cong Hu, Jinsong Su, Yidong Chen.*  [[code]](https://github.com/rzhao-zhsq/CV-SLT) `Tags:` **SLT**
 - 【CVPR 2023 `(Highlight Paper)`】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. *Jiangbin Zheng, Yile Wang, Cheng Tan, Siyuan Li, Ge Wang, Jun Xia, Yidong Chen, Stan Z. Li.* [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) [[code]](https://github.com/binbinjiang/CVT-SLR) `Tags:` **SLR**; Westlake University & Zhejiang University & Xiamen University & Tsinghua University
 - 【IJCAI 2023】Efficient Sign Language Translation with a Curriculum-based NAR Decoder. *Pei Yu, Liang Zhang, Biao Fu, Yidong Chen.* [[paper]](https://www.ijcai.org/proceedings/2023/0584.pdf) *code* `Tags:` **SLT**
 - 【ICASSP 2023】A Token-level Contrastive Framework for Sign Language Translation. *Biao Fu, Peigen Ye, Liang Zhang, Pei Yu, Cong Hu, Yidong Chen, Xiaodong Shi.* [[paper]](https://arxiv.org/pdf/2204.04916.pdf) *code* `Tags:` **SLT**
@@ -310,6 +310,7 @@ Language Recognition by Iterative Training. [[paper]](https://ieeexplore.ieee.or
 
 ### USTC for AI Sign Language <a name='sl_paper_ustc'></a>
 [[Back to TOP]](#table-of-content)
+
 - 【ACMMM 2020】Boosting Continuous Sign Language Recognition via Cross Modality Augmentation. *Pu, Junfu, Wengang Zhou, Hezhen Hu, and Houqiang Li.* [[paper]](https://arxiv.org/pdf/2010.05264.pdf) *code* `Tags:` **SLR**
 - 【AAAI 2020】Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition. [[paper]](https://arxiv.org/pdf/2002.03187.pdf) *code* `Tags:` **SLR**
 - 【TCSVT 2020】Semantic Boundary Detection with Reinforcement Learning for Continuous Sign Language Recognition. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9106402) *code* `Tags:` **SLR**

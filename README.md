@@ -130,6 +130,7 @@ For more categorization and details, we recommend you read this [survey/review p
 
 ### 2023 <a name='sl_paper_2023'></a>
 [[Back to TOP]](#table-of-content)
+
 - 【CVPR 2023 `(Highlight Paper)`】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. *Jiangbin Zheng, Yile Wang, Cheng Tan, Siyuan Li, Ge Wang, Jun Xia, Yidong Chen, Stan Z. Li.* [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) [[code]](https://github.com/binbinjiang/CVT-SLR) `Tags:` **SLR**; Westlake University & Zhejiang University & Xiamen University & Tsinghua University
 - 【IJCAI 2023】Efficient Sign Language Translation with a Curriculum-based NAR Decoder. *Pei Yu1, Liang Zhang, Biao Fu1, Yidong Chen.* [[paper]](https://www.ijcai.org/proceedings/2023/0584.pdf) *code* `Tags:` **SLT**
 - 【ICASSP 2023】A Token-level Contrastive Framework for Sign Language Translation. *Biao Fu, Peigen Ye, Liang Zhang, Pei Yu, Cong Hu, Yidong Chen, Xiaodong Shi.* [[paper]](https://arxiv.org/pdf/2204.04916.pdf) *code* `Tags:` **SLT**
@@ -178,6 +179,7 @@ For more categorization and details, we recommend you read this [survey/review p
 
 ### 2020 <a name='sl_paper_2020'></a>
 [[Back to TOP]](#table-of-content)
+
 - 【ACMMM 2020】INCLUDE: A Large Scale Dataset for Indian Sign Language Recognition. *Sridhar, Advaith, Rohith Gandhi Ganesan, Pratyush Kumar, and Mitesh Khapra.* [[paper]](https://dl.acm.org/doi/abs/10.1145/3394171.3413528) *code* `Tags:` **SLR**
 - 【ACMMM 2020】Boosting Continuous Sign Language Recognition via Cross Modality Augmentation. *Pu, Junfu, Wengang Zhou, Hezhen Hu, and Houqiang Li.* [[paper]](https://arxiv.org/pdf/2010.05264.pdf) *code* `Tags:` **SLR**
 - 【ACMMM 2020】Recognizing Camera Wearer from Hand Gestures in Egocentric Videos. *Thapar, Daksh, Aditya Nigam, and Chetan Arora.* [[paper]](http://www.cse.iitd.ac.in/~chetan/papers/daksh-mm-2020.pdf) *code* `Tags:` **SLR**
@@ -295,8 +297,11 @@ Language Recognition by Iterative Training. [[paper]](https://ieeexplore.ieee.or
 
 ### XMU for AI Sign Language <a name='sl_paper_xmu'></a>
 [[Back to TOP]](#table-of-content)
+
+- 【ICASSP 2024】An Explicit Multi-Modal Fusion Method For Sign Language Translation. *Cong Hu, Biao Fu, Pei Yu, Liang Zhang, Xiaodong Shi, Yidong Chen.*
+- 【AAAI 2024】Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment. *Rui Zhao, Liang Zhang, Biao Fu, Cong Hu, Jinsong Su, Yidong Chen.*  [[code]](https://github.com/rzhao-zhsq/CV-SLT) `Tags:` **SLT**
 - 【CVPR 2023 `(Highlight Paper)`】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. *Jiangbin Zheng, Yile Wang, Cheng Tan, Siyuan Li, Ge Wang, Jun Xia, Yidong Chen, Stan Z. Li.* [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) [[code]](https://github.com/binbinjiang/CVT-SLR) `Tags:` **SLR**; Westlake University & Zhejiang University & Xiamen University & Tsinghua University
-- 【IJCAI 2023】Efficient Sign Language Translation with a Curriculum-based NAR Decoder. *Pei Yu1, Liang Zhang, Biao Fu1, Yidong Chen.* [[paper]](https://www.ijcai.org/proceedings/2023/0584.pdf) *code* `Tags:` **SLT**
+- 【IJCAI 2023】Efficient Sign Language Translation with a Curriculum-based NAR Decoder. *Pei Yu, Liang Zhang, Biao Fu, Yidong Chen.* [[paper]](https://www.ijcai.org/proceedings/2023/0584.pdf) *code* `Tags:` **SLT**
 - 【ICASSP 2023】A Token-level Contrastive Framework for Sign Language Translation. *Biao Fu, Peigen Ye, Liang Zhang, Pei Yu, Cong Hu, Yidong Chen, Xiaodong Shi.* [[paper]](https://arxiv.org/pdf/2204.04916.pdf) *code* `Tags:` **SLT**
 - 【Arxiv 2022】Leveraging Graph-based Cross-modal Information Fusion for Neural Sign Language Translation. [[paper]](https://arxiv.org/pdf/2211.00526.pdf) *code* `Tags:` **SLT**
 - 【Neurocomputing 2021】Enhancing neural sign language translation by highlighting the facial expression information. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221012698) *code* `Tags:` **SLT**
@@ -305,6 +310,7 @@ Language Recognition by Iterative Training. [[paper]](https://ieeexplore.ieee.or
 
 ### USTC for AI Sign Language <a name='sl_paper_ustc'></a>
 [[Back to TOP]](#table-of-content)
+
 - 【ACMMM 2020】Boosting Continuous Sign Language Recognition via Cross Modality Augmentation. *Pu, Junfu, Wengang Zhou, Hezhen Hu, and Houqiang Li.* [[paper]](https://arxiv.org/pdf/2010.05264.pdf) *code* `Tags:` **SLR**
 - 【AAAI 2020】Spatial-Temporal Multi-Cue Network for Continuous Sign Language Recognition. [[paper]](https://arxiv.org/pdf/2002.03187.pdf) *code* `Tags:` **SLR**
 - 【TCSVT 2020】Semantic Boundary Detection with Reinforcement Learning for Continuous Sign Language Recognition. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9106402) *code* `Tags:` **SLR**
@@ -328,6 +334,7 @@ Language Recognition by Iterative Training. [[paper]](https://ieeexplore.ieee.or
 
 ### THU for AI Sign Language <a name='sl_paper_thu'></a>
 [[Back to TOP]](#table-of-content)
+
 - 【CVPR 2023 `(Highlight Paper)`】CVT-SLR: Contrastive Visual-Textual Transformation for Sign Language Recognition with Variational Alignment. *Jiangbin Zheng, Yile Wang, Cheng Tan, Siyuan Li, Ge Wang, Jun Xia, Yidong Chen, Stan Z. Li.* [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_CVT-SLR_Contrastive_Visual-Textual_Transformation_for_Sign_Language_Recognition_With_Variational_CVPR_2023_paper.html) [[code]](https://github.com/binbinjiang/CVT-SLR) `Tags:` **SLR**; Westlake University & Zhejiang University & Xiamen University & Tsinghua University
 - 【CVPR 2022】A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation. *Yutong Chen, Fangyun Wei, Xiao Sun, Zhirong Wu, Stephen Lin.* [[paper]](https://arxiv.org/abs/2203.04287) *code* `Tags:` **SLT**
 

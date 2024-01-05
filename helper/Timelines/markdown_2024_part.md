@@ -1,0 +1,2 @@
+- 【AAAI 2024】Conditional Variational Autoencoder for Sign Language Translation with Cross-Modal Alignment. *Rui Zhao, Liang Zhang, Biao Fu, Cong Hu, Jinsong Su, Yidong Chen.* [[paper]](nan) [[code]](https://github.com/rzhao-zhsq/CV-SLT) `Tags:` **SLT**
+- 【ICASSP 2024】An Explicit Multi-Modal Fusion Method For Sign Language Translation. *Cong Hu, Biao Fu, Pei Yu, Liang Zhang, Xiaodong Shi, Yidong Chen.* [[paper]](nan) *code* `Tags:` **SLT**
